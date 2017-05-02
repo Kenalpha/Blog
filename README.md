@@ -12,3 +12,4 @@ Then import database from Database folder
 If you want to change the name of your database make sure you also change it in the code (includes/db_connect.php)
 
 The project is connected to the database using 'root' and without a password
+I have used bootstrap framework for the frontend side
